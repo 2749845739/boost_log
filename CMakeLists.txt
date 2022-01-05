@@ -30,4 +30,8 @@ add_executable(log_trivial log_trivial.cpp)
 #目标文件 和  库文件进行链接，  和 add _subdirectory 配合使用,使用子目录库文件夹的别名
 target_link_libraries(log_trivial Boost::log Threads::Threads)
 
+
 # test stash list
+
+# 14:05 :01
+
