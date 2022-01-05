@@ -1,0 +1,3 @@
+/home/wangyue/Documents/repo/project/myProject/boost_log/build/CMakeFiles/rebuild_cache.dir
+/home/wangyue/Documents/repo/project/myProject/boost_log/build/CMakeFiles/edit_cache.dir
+/home/wangyue/Documents/repo/project/myProject/boost_log/build/CMakeFiles/log_trivial.dir

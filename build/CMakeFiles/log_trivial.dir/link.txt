@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/log_trivial.dir/log_trivial.cpp.o -o log_trivial  -Wl,-rpath,/usr/local/lib /usr/local/lib/libboost_log.so.1.77.0 /usr/local/lib/libboost_chrono.so.1.77.0 /usr/local/lib/libboost_filesystem.so.1.77.0 /usr/local/lib/libboost_atomic.so.1.77.0 /usr/local/lib/libboost_regex.so.1.77.0 /usr/local/lib/libboost_thread.so.1.77.0 -lpthread 
